@@ -1,0 +1,41 @@
+,sentence,label
+0,What can you do for me?,about
+1,Can you create a trading platform?,about
+2,Is it possible to customize QA flows for my project?,qa
+3,Can you develop mobile apps?,mobile
+4,Is it possible to make our system productivity better with help of DevOps?,devops
+5,Are you specialized in mobile apps?,mobile
+6,Can you create a cross platform app?,mobile
+7,Will your DevOps deliver our app?,devops
+8,Do you have mobile development team?,mobile
+9,Is there an alternative for flutter?,mobile
+10,What kind of experience do you have in building software?,about
+11,Can DevOps team make our solution more productive?,devops
+12,When was your organization started? ,about
+13,Do you provide QA consulting services?,qa
+14,Can you create an application like Facebook?,about
+15,Will you help me with QA strategy?,qa
+16,Are there cros platform mobile developers in your team?,mobile
+17,How many clients did you have?,about
+18,Do you have DevOps?,devops
+19,What does your QA proces like?,qa
+20,Can I make sure my my app will work under pressure?,devops
+21,Can you automate devops related tasks?,devops
+22,Do you have experienve in API automation testing?,qa
+23,Can you create an Android app for me?,mobile
+24,Flutter? what is this?,mobile
+25,Does your DevOps do continuous integration?,devops
+26,What kind of projects require to QAs in the team?,qa
+27,What are your QA consulting services about? ,qa
+28,Are your quality assurance specialists good?,qa
+29,Can you develop a tablet application?,mobile
+30,Do you have experience in Xamarin?,mobile
+31,Are you developing with security in mind?,devops
+32,Why you preffer flutter?,mobile
+33,Do you have mobile automation specialists?,qa
+34,What language will you create Android projects with?,mobile
+35,Can you develop smartphone application?,mobile
+36,Are you familiar with continuous integration?,devops
+37,Do you have iOS specialists?,mobile
+38,What spheres are your clients from?,about
+39,Who created VOLO?,about
