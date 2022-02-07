@@ -1,395 +1,316 @@
 ,sentence,label
-Do you provide QA Automation services?,qa
-Will your Devops team make our environment faster?,devops
-When was your company created? ,about
-Do you have mobile automation specialists?,qa
-Are you developing with security in mind?,devops
-Does the expences of QA team pays off?,qa
-Do you have other cross platfomr frameworks than flutter?,mobile
-Can you help me with QA workflows?,qa
-What year your company was founded?,about
-Why should I pay for app testers?,qa
-What services do you have?,about
-Why is Flutter the right choice for cross-platform app development?,mobile
-Are you specialized in hybrid technologies?,mobile
-Will you cover our DevOps needs?,devops
-Do you have Java developers?,mobile
-Was this company founded by Armenians?,about
-What company is this?,about
-Can you create a custom QA flow for me?,qa
-What industries are your clients from?,about
-Can you create a healthcare platform?,about
-Does your company have DevOps team?,devops
-What’s your company culture like?,about
-is it more cost efficent to create apps with flutter?,mobile
-How many branches does VOLO have?,about
-Will you advice react native as cross platform framework?,mobile
-And what about company culture?,about
-Are you familiar with continuous integration?,devops
-Have you worked on social networking projects?,about
-Which cross platform framework is the best?,mobile
-What is the best cross platform framework?,mobile
-How do I know if I can trust your QA processes?,qa
-What mobile platforms do you create apps for?,mobile
-Do you have big offices?,about
-Can I make sure my app will be secure?,devops
-Will you be able to develop trading platform application?,about
-Has VOLO created many apps?,about
-Does your DevOps do continuous integration?,devops
-Have you developed applications for commodity traders?,about
-Can you develop a social network app?,about
-Do you have android engineers?,mobile
-Do you have manual testers in your company?,qa
-Have you created healthcare applications?,about
-What can you do to make our deployment process better?,devops
-Will your devops tema help with deployment?,devops
-Can DevOps team help our project in terms of productivity?,devops
-Is DevOps any good?,devops
-Do you have a good QA team?,qa
-How many offices do you have?,about
-Do you have experience in fintech?,about
-What is Flutter?,mobile
-What does your DevOps offer?,devops
-What do you mean by kitchens?,about
-Can you develop a tablet application?,mobile
-Are there cros platform mobile developers in your team?,mobile
-Does VOLO have office in United States?,about
-Do you have team of automation testers?,qa
-Are you familiar with hybrid mobile app development?,mobile
-Do you have experience in mobile app development?,mobile
-Do your devops specialists protect against hacker attacks?,devops
-What is covered by Devops?,devops
-Will you ensure that our solution will work good in case of big load? ,devops
-What do you mean by QA consulting?,qa
-What parts of application lifecyrcle does your devops team cover?,devops
-Can you create apps with react native?,mobile
-Can you develop smartphone application?,mobile
-Can you create a chating application?,about
-Are there website automation specialists in your company?,qa
-Is it cheeper to develop apps with Flutter?,mobile
-Does the money spent on QA team pays off?,qa
-Are there healthcare solutions in your portfolio?,about
-Who created this company?,about
-What language do you prefer for iOS?,mobile
-Are the social networking solutions in your portfolio?,about
-What do your QA Automation services cover?,qa
-What does your QA proces like?,qa
-Do you have Xamarin developers?,mobile
-How does your QA team test the products?,qa
-Has your company created applications before?,about
-Who this office was founded by?,about
-Do you have enterprise DevOps team?,devops
-What kind of experience do you have in building software?,about
-What industries do you have experience in?,about
-Do you do QA?,qa
-Why should I pay for QA?,qa
-Will you create CI/CD?,devops
-Have you worked with payment systems?,about
-Is your QA team experienced in automation testing of websites?,qa
-Do you have experience in Appium?,qa
-Will your DevOps specialists secure us against attacks?,devops
-What is the most cost efficient technology for mobiel app development?,mobile
-Isn't it a waist of money to hire a QA team?,qa
-Will your automation specialists cover website testing?,qa
-Are you familiar with fintech?,about
-Where are your offices located?,about
-Are there Swift developers in your team?,mobile
-Do you have experience in developing social networks?,about
-Do you do software development?,about
-Can we hire DevOps specialists?,devops
-Can you do automated testing of my app?,qa
-Can you create mobile applications?,mobile
-Can you build a native mobile app?,mobile
-Can your Devops team protect us from attackers? ,devops
-Do you have React Native developers?,mobile
-Can I trust your QA team?,qa
-What about your QA flows?,qa
-Is you testers team work manual?,qa
-What language will you create Android projects with?,mobile
-Does your company have DevOps department?,devops
-When was your company founded? ,about
-What do you do?,about
-What can you do for me?,about
-How old is your company?,about
-Why you preffer flutter?,mobile
-Who are the founders of your company?,about
-What’s the testing process like?,qa
-Can I trust quality controll of your company?,qa
-Do you have developers for all mobile platforms?,mobile
-Do you prvide end to end devops solutions?,devops
-Can I make sure my my app will work under pressure?,devops
-Will you use swift programming language for iOS ?,mobile
-What kind of projects have you done?,about
-Do your devops specialists do continuous delivey?,devops
-What technologies do you use for cross-platform app development?,mobile
-Do you do cross-platform app development? ,mobile
-What does QA consulting mean?,qa
-What are your QA consulting services about? ,qa
-Have you been in this industry for long time?,about
-Can you create an application like Facebook?,about
-Do you use Kotlin for Android?,mobile
-When was VOLO founded?,about
-Can you create iOS apps with objective c?,mobile
-What niches do you specialize in?,about
-Can I make sure you will take care of quality of my app?,qa
-What people started this company?,about
-How many clients did you have?,about
-Do you build mobile apps?,mobile
-Is there a QA team in your company?,qa
-Is it possible to customize QA flows for my project?,qa
-Can you help with deployment?,devops
-Will you be able to deliver secure solutions?,devops
-What qa consulting is?,qa
-Do you have experience in QA automation?,qa
-Is this company develop software?,about
-Does your company offer DevOps services?,devops
-What languages do you use to build Android apps?,mobile
-Can your DevOps team deploy our product?,devops
-What is the main thing your company do?,about
-Can you help me identify the right QA strategy?,qa
-Are you a software development company?,about
-Do you have a branch in Ukraine?,about
-Do you have experience in DevOps?,devops
-Do you do manual testing?,qa
-Do you use Swift for iOS?,mobile
-Are there QAs specialized on manual testing in your company?,qa
-Are you experienced in automation?,qa
-Does your company have automation qa team?,qa
-Have you developed applications before?,about
-What hybrid technology do you know?,mobile
-Can you develop native android application?,mobile
-Why should I spend money on QA team?,qa
-Are your QA specialists good at testing?,qa
-Have you built smartphone mobile apps before?,mobile
-What corss platform languages do you have experience in?,mobile
-Are there any Java developers in your team?,mobile
-Is flutter development fast?,mobile
-Can I get DevOps services from your company?,devops
-Do you have highly qualified QA specialists?,qa
-How does QA consulting help me?,qa
-Can you guarantee that my application will scale well?,devops
-Do you build native mobile applications?,mobile
-Can I buy devops solutions?,devops
-Do you provide DevOps?,devops
-Can you provide me software quality testers?,qa
-Are there Kotlin developers in your team?,mobile
-What languages do you use to develop iOS apps?,mobile
-Are you familiar with CI/CD workflows?,devops
-Do you have offices in Europe?,about
-Can you create Android apps with Java?,mobile
-What does VOLO do?,about
-Are you familiar with any hybrid technology?,mobile
-What programming language will you use for iOS apps?,mobile
-Can you create a hybrid app?,mobile
-Do you have experience in medical software?,about
-Can devops impact the productivity?,devops
-Can your DevOps fix issues in my environment?,devops
-Can you create an application for hospitals?,about
-Can you provide assitence on good QA workflows?,qa
-Do you have automation QA specialists?,qa
-Is it possible to make our system productivity better with help of DevOps?,devops
-Can you develop mobile app with xamarin?,mobile
-What types of projects are you specialized?,about
-Are there qa specialists in your team?,qa
-Are ther native mobile platform developers in you team?,mobile
-Do you create enterprise applications?,about
-How will your DevOps services help me?,devops
-What sphere do you work?,about
-Can your DevOps team configure firewall?,devops
-What can VOLO do for us?,about
-What is the best side of flutter?,mobile
-Do you maintain a healthy atmosphere in your offices?,about
-Do your automation services cover mobile app testing?,qa
-Will DevOps help improve our productivity?,devops
-Do you have experienve in API automation testing?,qa
-Are you working long in this industry?,about
-What is the cheepest way to develop mobile app?,mobile
-What is the best hybrid technology?,mobile
-Can your DevOps team make our solutions more secure?,devops
-Are you an IT company?,about
-What is the culture in VOLO officess?,about
-Are your QA trustworthy?,qa
-Are there devops specialists in your team?,devops
-Are there iOS developers in you team?,mobile
-Who founded your company?,about
-Do you have testers?,qa
-What technology do you use for Android development?,mobile
-Will your DevOps team ensure the application is protected against attacks?,devops
-Can your DevOps solve problems in our environment?,devops
-Is it worth the money to hire qa specialists?,qa
-Who were the people who created this company?,about
-Do you have React Native team?,mobile
-What can your DevOps do?,devops
-Do you have branches in US?,about
-Do I really need QA specialists?,qa
-Will your DevOps deliver our app?,devops
-Can you build a Xamarin app?,mobile
-Do you have Devops services?,devops
-Are there manual QAs in your team?,qa
-Have you created enterprise software?,about
-Are all your offices located in Armenia?,about
-What is QA consultiong?,qa
-Is Flutter your only option for cross-platform app development?,mobile
-Have you worked on medical projects?,about
-Is there a specific industry you focus on?,about
-Do you provide DevOps for enterprise solutions?,devops
-How can QA consulting help my project?,qa
-Do you have manual QAs?,qa
-Do you have app quality testers team?,qa
-Are you experienced in cross platform technologies?,mobile
-How will DevOps help me?,devops
-Can you detect problems in our setup?,devops
-Do your solutions meet security standards?,devops
-Can you provide consulting on QA related issues?,qa
-Will you help me to correct my QA practices?,qa
-Do you have experience in hybrid frameworks?,mobile
-Do you pay attention on company culture?,about
-What programming language will you use for Android apps?,mobile
-Can you develop native iOS app?,mobile
-Do you provide QA consulting services?,qa
-Do you have qa team?,qa
-Do you have manual quality assurance specialists?,qa
-What do you offer?,about
-Do you build apps for both iOS and Android?,mobile
-Does DevOps boost security?,devops
-Will our productivity win if we hire devops specialists?,devops
-Will your DevOps specialists publish our software to prduction?,devops
-Do you have experience in Appium?,qa
-Is there an alternative for flutter?,mobile
-Have you created apps for smartphones?,mobile
-Do you guarantee that your QAs I will have error free app?,qa
-Do you have experience in healthcare software?,about
-Can your Devops team configure CI?,devops
-Do you have DevOps?,devops
-Do you provide DevOps automation?,devops
-How do you test the apps?,qa
-Can DevOps team make our solution more productive?,devops
-Do you have experience in Android apps?,mobile
-Will DevOps help me fix issues?,devops
-Are there any mobile automation QAs in your team?,qa
-What is your prefferd hybrid technology?,mobile
-Can you create a cross platform app?,mobile
-Have you created trading applications?,about
-Do you have Android developers?,mobile
-Why should I choose Flutter?,mobile
-Can you create a trading platform?,about
-Is it required for me to hire QA team as well?,qa
-Can your DevOps team publish our app?,devops
-Whah is the process of testing products?,qa
-How you organize QA flows?,qa
-Qhy should I pay for quality assurance?,qa
-Is your company experienced in DevOps?,devops
-Can your automation team write tests for API?,qa
-Do you have mobile development team?,mobile
-Are you testers highly qualified?,qa
-What technology do you use for iOS development?,mobile
-Who created VOLO?,about
-How many years are you in industry?,about
-How many apps have you developed?,about
-How many projects have you completed?,about
-Can I make sure that my app is bug free after your QAs tested it?,qa
-Can you help us setup continuous integration?,devops
-How can I know if I need QA?,qa
-Have your team worked with Selenium?,qa
-Will the prdoctivity rise if we have DevOps?,devops
-Can you create an app with react native?,mobile
-Does your company have office in Armenia?,about
-When it was founded?,about
-Do you have experience in Xamarin?,mobile
-How can I trust that you create high quality apps?,qa
-Will you integrate continuous delivery mechanisms?,devops
-Do you have Devops experts?,devops
-Do I need to hire QA team for my project?,qa
-What QA flows do you offer?,qa
-Are there quality assurance specialists in your company?,qa
-Do you provide DevOps solutions?,devops
-What spheres are your clients from?,about
-Can you automate the app testing?,qa
-Do you have automation team?,qa
-Are your DevOps specialists proficient with CI/CD tools?,devops
-Do you have hybrid mobile app developrs?,mobile
-How can I check if I need quality assurance team?,qa
-Which hybrid frameworks will you advice?,mobile
-Are you specialized in mobile apps?,mobile
-Can you help me with good QA strategy?,qa
-Why should I spend money for testers?,qa
-How can you help me?,about
-Have you worked on many projects?,about
-Will you develop an iOS application?,mobile
-What kind of projects require to QAs in the team?,qa
-What can your devops specialists offer?,devops
-Can you devops detect issues in my environment?,devops
-Do you have experience in continuous integration?,devops
-What industry your company works in?,about
-Do you have application testers?,qa
-Are there any ObjectiveC developers in your team?,mobile
-How many people work in single office?,about
-Is it possible to create app with cross platform technologies?,mobile
-Is there a DevOps team in your company?,devops
-Why should I pay for testing the software?,qa
-What kind of organizations have you worked for?,about
-Will you help me with QA strategy?,qa
-Are there any Selenium specialists in your team?,qa
-Can I make sure I need QA team?,qa
-Why should I choose Flutter?,mobile
-What language do you prefer for Android?,mobile
-Are there a lot of projects you worked on?,about
-Is it necessary to have testers in my team?,qa
-Are you familiar with Xamarin?,mobile
-When was your organization started? ,about
-Is your QA team good?,qa
-What language will you create iOS projects with?,mobile
-What do your DevOps services cover?,devops
-Do you have Xamarin team?,mobile
-Do you have a big portfolio?,about
-Are there QAs in your team?,qa
-What cross platform frameworks are you familiar with?,mobile
-Are your quality assurance specialists good?,qa
-What services does your company provide?,about
-Is the expences of qa specialists woth it?,qa
-Do you have web automation QA team?,qa
-How QA flows are managed in your company?,qa
-Can you help me to create a social network?,about
-Can you create an Android app for me?,mobile
-Have you created react-native apps?,mobile
-Can you advice best QA practices and workflows?,qa
-Do you have experience in iOS apps?,mobile
-Can you create payment systems?,about
-What is the QA process like in your company?,qa
-What kind of automation do you do?,qa
-Do you have QA specialists?,qa
-Are there QA automation experts in your company?,qa
-Are you specialised in enterprise solutions?,about
-Do you have moile app specialists?,mobile
-Do you have CI/CD specialists?,devops
-What do you mean by flutter?,mobile
-What benefits will I have if I choose flutter?,mobile
-Will you guide me through QA strategy best practices?,qa
-Do you have iOS specialists?,mobile
-Do you have Objective-C developers?,mobile
-What services do you provide to your clients?,about
-Can you help me with CI/CD?,devops
-Do you care about security of software?,devops
-Do you deliver DevOps solutions?,devops
-Flutter? what is this?,mobile
-Have you created social networks?,about
-What kind of companies do your clients have?,about
-Will you use kotlin programming language for Android ?,mobile
-Will your Devops help deliver software?,devops
-Do you have API automation secialists?,qa
-Are the founders of VOLO Armenians?,about
-Who started this company?,about
-What’s one good feature of Flutter?,mobile
-Does your company pay attenrion on quality?,qa
-Will you ensure a seamless project deployment process?,devops
-Are there commodity related projects in your portfolio?,about
-When was your organization founded? ,about
-Is there a VOLO branch in Europe?,about
-Does your QA team do manual testing?,qa
-Can you create a medical app for me?,about
-Can you develop payment processing software?,about
-Can you develop mobile apps?,mobile
-Are your QA processes custom-created?,qa
-Do you have experience with security measures in software?,devops
-Can your DevOps make our system more secure?,devops
-Can you automate devops related tasks?,devops
+0,Do you provide QA consulting services?,qa
+1,Do you have Xamarin team?,mobile
+2,Are you an IT company?,about
+3,Is it possible to create app with cross platform technologies?,mobile
+4,Do you have experience in Appium?,qa
+5,Can your DevOps fix issues in my environment?,devops
+6,And what about company culture?,about
+7,Who this office was founded by?,about
+8,Why you preffer flutter?,mobile
+9,Will your Devops team make our environment faster?,devops
+10,Is the expences of qa specialists woth it?,qa
+11,Have you worked on medical projects?,about
+12,Does DevOps boost security?,devops
+13,Will you help me to correct my QA practices?,qa
+14,Can I trust quality controll of your company?,qa
+15,What is the QA process like in your company?,qa
+16,Will the prdoctivity rise if we have DevOps?,devops
+17,Who created this company?,about
+18,Do you deliver DevOps solutions?,devops
+19,What technology do you use for Android development?,mobile
+20,Do you have moile app specialists?,mobile
+21,What QA flows do you offer?,qa
+22,Is there a QA team in your company?,qa
+23,What’s your company culture like?,about
+24,Does your company have DevOps department?,devops
+25,Can devops impact the productivity?,devops
+26,Do you provide DevOps?,devops
+27,Why should I choose Flutter?,mobile
+28,Who created VOLO?,about
+29,Are you familiar with continuous integration?,devops
+30,Who started this company?,about
+31,Can you create a healthcare platform?,about
+32,Can I trust your QA team?,qa
+33,Why should I pay for QA?,qa
+34,Is there a VOLO branch in Europe?,about
+35,Does VOLO have office in United States?,about
+36,Do you have manual quality assurance specialists?,qa
+37,Is flutter development fast?,mobile
+38,Are there devops specialists in your team?,devops
+39,Can you automate devops related tasks?,devops
+40,Can you create a cross platform app?,mobile
+41,What is the best cross platform framework?,mobile
+42,Do you have Java developers?,mobile
+43,Why is Flutter the right choice for cross-platform app development?,mobile
+44,Do you have experience in mobile app development?,mobile
+45,Are you working long in this industry?,about
+46,Do you have experience in healthcare software?,about
+47,Are you familiar with fintech?,about
+48,What mobile platforms do you create apps for?,mobile
+49,Is your company experienced in DevOps?,devops
+50,Are you specialized in mobile apps?,mobile
+51,Do you use Swift for iOS?,mobile
+52,Do you have hybrid mobile app developrs?,mobile
+53,Do you have app quality testers team?,qa
+54,What is QA consultiong?,qa
+55,Will your automation specialists cover website testing?,qa
+56,Can you guarantee that my application will scale well?,devops
+57,What programming language will you use for Android apps?,mobile
+58,is it more cost efficent to create apps with flutter?,mobile
+59,Flutter? what is this?,mobile
+60,Is it required for me to hire QA team as well?,qa
+61,Do you prvide end to end devops solutions?,devops
+62,How do you test the apps?,qa
+63,Will you integrate continuous delivery mechanisms?,devops
+64,Do you have experience in iOS apps?,mobile
+65,How you organize QA flows?,qa
+66,How will DevOps help me?,devops
+67,How many offices do you have?,about
+68,Will your devops tema help with deployment?,devops
+69,Do you have experience in medical software?,about
+70,Will you use swift programming language for iOS ?,mobile
+71,What language do you prefer for Android?,mobile
+72,How many clients did you have?,about
+73,Can you help me to create a social network?,about
+74,What industry your company works in?,about
+75,Can we hire DevOps specialists?,devops
+76,Are there any mobile automation QAs in your team?,qa
+77,Do you have React Native team?,mobile
+78,Can you detect problems in our setup?,devops
+79,Are you a software development company?,about
+80,Does your company have DevOps team?,devops
+81,What does your QA proces like?,qa
+82,What qa consulting is?,qa
+83,Do you provide DevOps automation?,devops
+84,Can you build a Xamarin app?,mobile
+85,Does your company have automation qa team?,qa
+86,Do you have testers?,qa
+87,Do you have experience with security measures in software?,devops
+88,Have you created enterprise software?,about
+89,Will you develop an iOS application?,mobile
+90,Can your DevOps make our system more secure?,devops
+91,What do you mean by kitchens?,about
+92,Which cross platform framework is the best?,mobile
+93,When was your organization started? ,about
+94,Do you use Kotlin for Android?,mobile
+95,Does your company offer DevOps services?,devops
+96,What language do you prefer for iOS?,mobile
+97,How many years are you in industry?,about
+98,Do you have Xamarin developers?,mobile
+99,Are your QA trustworthy?,qa
+100,Have you developed applications for commodity traders?,about
+101,Which hybrid frameworks will you advice?,mobile
+102,What can your DevOps do?,devops
+103,Do you have React Native developers?,mobile
+104,What is covered by Devops?,devops
+105,Are you familiar with Xamarin?,mobile
+106,Do you have enterprise DevOps team?,devops
+107,Will you ensure a seamless project deployment process?,devops
+108,Are your DevOps specialists proficient with CI/CD tools?,devops
+109,What people started this company?,about
+110,Can I make sure you will take care of quality of my app?,qa
+111,Can DevOps team help our project in terms of productivity?,devops
+112,What is the culture in VOLO officess?,about
+113,Can you do automated testing of my app?,qa
+114,What do you offer?,about
+115,Can you develop a tablet application?,mobile
+116,Can you provide me software quality testers?,qa
+117,How many branches does VOLO have?,about
+118,What does QA consulting mean?,qa
+119,Is your QA team good?,qa
+120,How does QA consulting help me?,qa
+121,What can your devops specialists offer?,devops
+122,Do you do QA?,qa
+123,Can you create an application like Facebook?,about
+124,Are there iOS developers in you team?,mobile
+125,Do you have qa team?,qa
+126,What language will you create Android projects with?,mobile
+127,Do you have automation team?,qa
+128,Are you specialised in enterprise solutions?,about
+129,Have you created apps for smartphones?,mobile
+130,What parts of application lifecyrcle does your devops team cover?,devops
+131,Will your DevOps specialists publish our software to prduction?,devops
+132,Can your DevOps team deploy our product?,devops
+133,What do your QA Automation services cover?,qa
+134,What languages do you use to develop iOS apps?,mobile
+135,Do you have automation QA specialists?,qa
+136,Are you specialized in hybrid technologies?,mobile
+137,Can you provide assitence on good QA workflows?,qa
+138,Does your QA team do manual testing?,qa
+139,Can you create apps with react native?,mobile
+140,What industries do you have experience in?,about
+141,Is it possible to customize QA flows for my project?,qa
+142,Do you have iOS specialists?,mobile
+143,What is the best side of flutter?,mobile
+144,What kind of projects require to QAs in the team?,qa
+145,What do you mean by flutter?,mobile
+146,What kind of projects have you done?,about
+147,What corss platform languages do you have experience in?,mobile
+148,Do you have branches in US?,about
+149,What do your DevOps services cover?,devops
+150,What is the most cost efficient technology for mobiel app development?,mobile
+151,Are there a lot of projects you worked on?,about
+152,Have your team worked with Selenium?,qa
+153,Do you have experience in Android apps?,mobile
+154,Can you provide consulting on QA related issues?,qa
+155,Can your DevOps team make our solutions more secure?,devops
+156,Can DevOps team make our solution more productive?,devops
+157,Do you have CI/CD specialists?,devops
+158,Have you created healthcare applications?,about
+159,What programming language will you use for iOS apps?,mobile
+160,Do you have mobile automation specialists?,qa
+161,What technologies do you use for cross-platform app development?,mobile
+162,Is it necessary to have testers in my team?,qa
+163,Are you testers highly qualified?,qa
+164,Do you pay attention on company culture?,about
+165,What services do you have?,about
+166,Is it cheeper to develop apps with Flutter?,mobile
+167,How will your DevOps services help me?,devops
+168,Do I really need QA specialists?,qa
+169,Does the money spent on QA team pays off?,qa
+170,Are you experienced in cross platform technologies?,mobile
+171,Can you create iOS apps with objective c?,mobile
+172,Is it worth the money to hire qa specialists?,qa
+173,How can I check if I need quality assurance team?,qa
+174,Are there any Selenium specialists in your team?,qa
+175,How many apps have you developed?,about
+176,Can you create a chating application?,about
+177,Do your solutions meet security standards?,devops
+178,Do you have team of automation testers?,qa
+179,Are there qa specialists in your team?,qa
+180,How many projects have you completed?,about
+181,Can you create an app with react native?,mobile
+182,Are all your offices located in Armenia?,about
+183,Do you maintain a healthy atmosphere in your offices?,about
+184,Do you have developers for all mobile platforms?,mobile
+185,Do you have big offices?,about
+186,Are there QAs specialized on manual testing in your company?,qa
+187,How old is your company?,about
+188,Will your Devops help deliver software?,devops
+189,Do your devops specialists do continuous delivey?,devops
+190,What industries are your clients from?,about
+191,Can I make sure my app will be secure?,devops
+192,Have you worked on social networking projects?,about
+193,Do you have API automation secialists?,qa
+194,Why should I pay for app testers?,qa
+195,Can your DevOps solve problems in our environment?,devops
+196,Does your DevOps do continuous integration?,devops
+197,Are there healthcare solutions in your portfolio?,about
+198,Can you create an application for hospitals?,about
+199,Is your QA team experienced in automation testing of websites?,qa
+200,What can VOLO do for us?,about
+201,Can you help me with QA workflows?,qa
+202,Do you provide DevOps for enterprise solutions?,devops
+203,Do you have Devops services?,devops
+204,Why should I spend money on QA team?,qa
+205,What is the best hybrid technology?,mobile
+206,What is the cheepest way to develop mobile app?,mobile
+207,Do you have Devops experts?,devops
+208,Have you developed applications before?,about
+209,Are there commodity related projects in your portfolio?,about
+210,What language will you create iOS projects with?,mobile
+211,Do you build mobile apps?,mobile
+212,Will you guide me through QA strategy best practices?,qa
+213,Will you be able to develop trading platform application?,about
+214,Do you do software development?,about
+215,Do you have mobile development team?,mobile
+216,What kind of organizations have you worked for?,about
+217,Will your DevOps specialists secure us against attacks?,devops
+218,What services do you provide to your clients?,about
+219,Will you be able to deliver secure solutions?,devops
+220,How does your QA team test the products?,qa
+221,What does VOLO do?,about
+222,Can you create Android apps with Java?,mobile
+223,Can your DevOps team publish our app?,devops
+224,Qhy should I pay for quality assurance?,qa
+225,Can your automation team write tests for API?,qa
+226,Can you create a custom QA flow for me?,qa
+227,Can you develop a social network app?,about
+228,Are your QA processes custom-created?,qa
+229,How can I know if I need QA?,qa
+230,When was your organization founded? ,about
+231,What do you mean by QA consulting?,qa
+232,Are there QA automation experts in your company?,qa
+233,Can you create a trading platform?,about
+234,Where are your offices located?,about
+235,Do you create enterprise applications?,about
+236,Can you develop native iOS app?,mobile
+237,Do you have DevOps?,devops
+238,What does your DevOps offer?,devops
+239,When was your company founded? ,about
+240,Can I buy devops solutions?,devops
+241,What kind of experience do you have in building software?,about
+242,What’s one good feature of Flutter?,mobile
+243,Can I make sure my my app will work under pressure?,devops
+244,Can your DevOps team configure firewall?,devops
+245,Who were the people who created this company?,about
+246,Can you develop payment processing software?,about
+247,Does your company have office in Armenia?,about
+248,Has your company created applications before?,about
+249,Can you create an Android app for me?,mobile
+250,Was this company founded by Armenians?,about
+251,Do you have a good QA team?,qa
+252,Can you help me identify the right QA strategy?,qa
+253,Will DevOps help improve our productivity?,devops
+254,Have you created react-native apps?,mobile
+255,Do you have experience in DevOps?,devops
+256,Is DevOps any good?,devops
+257,Can you develop mobile app with xamarin?,mobile
+258,Can you develop mobile apps?,mobile
+259,Are the founders of VOLO Armenians?,about
+260,Will your DevOps deliver our app?,devops
+261,Does your company pay attenrion on quality?,qa
+262,Can you develop smartphone application?,mobile
+263,What kind of companies do your clients have?,about
+264,Have you worked on many projects?,about
+265,What can you do to make our deployment process better?,devops
+266,Do you guarantee that your QAs I will have error free app?,qa
+267,What spheres are your clients from?,about
+268,How can I trust that you create high quality apps?,qa
+269,What’s the testing process like?,qa
+270,Can you develop native android application?,mobile
+271,Are you familiar with CI/CD workflows?,devops
+272,Do you have manual QAs?,qa
+273,Can you help me with CI/CD?,devops
+274,Do you provide DevOps solutions?,devops
+275,What languages do you use to build Android apps?,mobile
+276,Whah is the process of testing products?,qa
+277,Are you familiar with any hybrid technology?,mobile
+278,Does the expences of QA team pays off?,qa
+279,Have you built smartphone mobile apps before?,mobile
+280,Can you help me with good QA strategy?,qa
+281,Are your quality assurance specialists good?,qa
+282,Can you help us setup continuous integration?,devops
+283,Do you have manual testers in your company?,qa
+284,What cross platform frameworks are you familiar with?,mobile
+285,What kind of automation do you do?,qa
+286,Do you have Objective-C developers?,mobile
+287,Have you created trading applications?,about
+288,Can I make sure I need QA team?,qa
+289,Will you help me with QA strategy?,qa
+290,When was your company created? ,about
+291,What are your QA consulting services about? ,qa
+292,Can you create mobile applications?,mobile
+293,What year your company was founded?,about
+294,Will you ensure that our solution will work good in case of big load? ,devops
+295,Are you experienced in automation?,qa
+296,Who are the founders of your company?,about
+297,Who founded your company?,about
+298,Can you create a medical app for me?,about
+299,Can you help with deployment?,devops
+300,Do you have experience in Appium?,qa
+301,Can you build a native mobile app?,mobile
+302,Are the social networking solutions in your portfolio?,about
+303,Are ther native mobile platform developers in you team?,mobile
+304,When it was founded?,about
+305,Why should I choose Flutter?,mobile
+306,Do you have experience in developing social networks?,about
+307,Can your Devops team protect us from attackers? ,devops
+308,Will you cover our DevOps needs?,devops
+309,Do your devops specialists protect against hacker attacks?,devops
+310,What niches do you specialize in?,about
+311,Can you advice best QA practices and workflows?,qa
+312,Do you do manual testing?,qa
+313,Do you have application testers?,qa
+314,Why should I pay for testing the software?,qa
