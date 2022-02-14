@@ -1,0 +1,22 @@
+{"sentence1": "Do you have a good QA team?", "label": "qa"}
+{"sentence1": "Do you have specialists in anomaly detection field?", "label": "ml"}
+{"sentence1": "How many offices do you have?", "label": "about"}
+{"sentence1": "What kind of AI/ML solutions do you offer?", "label": "ml"}
+{"sentence1": "What is predictive analytics?", "label": "ml"}
+{"sentence1": "Do you provide quality assurance?", "label": "qa"}
+{"sentence1": "What IoT services do you provide?", "label": "iot"}
+{"sentence1": "Do you give guaranties related quality of your services?", "label": "qa"}
+{"sentence1": "Where are the founders of your company from?", "label": "about"}
+{"sentence1": "What will the communication be like between us as partners? ", "label": "about"}
+{"sentence1": "What’s one good feature of Flutter for cross-platform app development?", "label": "mobile"}
+{"sentence1": "Can you create something like PayPal?", "label": "about"}
+{"sentence1": "Do you have experience in commodities?", "label": "about"}
+{"sentence1": "Do you have Swift developers?", "label": "mobile"}
+{"sentence1": "What is Flutter?", "label": "mobile"}
+{"sentence1": "Why should I choose your company?", "label": "about"}
+{"sentence1": "Do you build apps for both iOS and Android?", "label": "mobile"}
+{"sentence1": "Have you developed applications for smart watches?", "label": "iot"}
+{"sentence1": "Do you have experience in Azure IoT?", "label": "iot"}
+{"sentence1": "Do you build mobile apps?", "label": "mobile"}
+{"sentence1": "Do you provide QA Automation services?", "label": "qa"}
+{"sentence1": "Do you have Objective-C developers?", "label": "mobile"}
