@@ -1,0 +1,33 @@
+{"sentence1": "Do you do QA?", "label": "qa"}
+{"sentence1": "Do you do software testing?", "label": "qa"}
+{"sentence1": "How can QA consulting help me?", "label": "qa"}
+{"sentence1": "Can you automate the regression testing of my website?", "label": "qa"}
+{"sentence1": "What technologies do you use for android?", "label": "mobile"}
+{"sentence1": "Do you have Swift developers?", "label": "mobile"}
+{"sentence1": "How old is your company?", "label": "about"}
+{"sentence1": "Do you have a good QA team?", "label": "qa"}
+{"sentence1": "What do you mean by kitchens?", "label": "about"}
+{"sentence1": "Can I hire a QA team from your company?", "label": "qa"}
+{"sentence1": "What’s NLP?", "label": "ml"}
+{"sentence1": "Have you created software for smart devices?", "label": "iot"}
+{"sentence1": "How do AI/ML help in finding out data issues?", "label": "ml"}
+{"sentence1": "What is the main business of this company?", "label": "about"}
+{"sentence1": "What are your QA consulting services about?", "label": "qa"}
+{"sentence1": "Do you offer tech consulting services?", "label": "about"}
+{"sentence1": "Have you done many projects?", "label": "about"}
+{"sentence1": "How will our teams collaborate?", "label": "about"}
+{"sentence1": "Do you collaborate with companies from US?", "label": "about"}
+{"sentence1": "Do you have a big portfolio?", "label": "about"}
+{"sentence1": "Do you provide IoT services?", "label": "iot"}
+{"sentence1": "Have you developed solution for commodities market?", "label": "about"}
+{"sentence1": "Can you provide quality assurance specialists?", "label": "qa"}
+{"sentence1": "Will you give me advice on best QA strategy?", "label": "qa"}
+{"sentence1": "Can you create an iOS app?", "label": "mobile"}
+{"sentence1": "Can you assist me with choosing best testing strategy?", "label": "qa"}
+{"sentence1": "In what year your organization was created?", "label": "about"}
+{"sentence1": "Do you have Kotlin developers?", "label": "mobile"}
+{"sentence1": "Does the price paid for testing worth it?", "label": "qa"}
+{"sentence1": "Are your offices large?", "label": "about"}
+{"sentence1": "Can I trust VOLO?", "label": "about"}
+{"sentence1": "How many branches does Volo have?", "label": "about"}
+{"sentence1": "How many offices do you have?", "label": "about"}
