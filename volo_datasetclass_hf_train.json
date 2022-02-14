@@ -1,132 +1,151 @@
-{"sentence1": "What IoT services do you provide?", "label": "iot"}
 {"sentence1": "What benefits can a chatbot give?", "label": "ml"}
-{"sentence1": "When was your company founded?", "label": "about"}
-{"sentence1": "What kind of AI/ML solutions do you offer?", "label": "ml"}
-{"sentence1": "Who defines if I need QA team or not?", "label": "qa"}
-{"sentence1": "Have you done any projects for government?", "label": "about"}
-{"sentence1": "Can you create an Android app?", "label": "mobile"}
-{"sentence1": "Can you create something like PayPal?", "label": "about"}
-{"sentence1": "Do you have Java developers?", "label": "mobile"}
-{"sentence1": "Do you have experience in creating software for governmental needs?", "label": "about"}
-{"sentence1": "Do you build apps for both iOS and Android?", "label": "mobile"}
-{"sentence1": "Do you have Android engineers?", "label": "mobile"}
-{"sentence1": "Do you have team of manual testers?", "label": "qa"}
-{"sentence1": "What is Flutter?", "label": "mobile"}
-{"sentence1": "Have you developed applications for smart watches?", "label": "iot"}
-{"sentence1": "Can you provide guidence for QA strategies?", "label": "qa"}
-{"sentence1": "How can QAs help me?", "label": "qa"}
-{"sentence1": "What is predictive analytics?", "label": "ml"}
-{"sentence1": "What kind of chatbots can you create?", "label": "ml"}
-{"sentence1": "Are there any medical projects in your portfolio?", "label": "about"}
-{"sentence1": "Where are your clients usually from?", "label": "about"}
-{"sentence1": "Where are the founders of your company from?", "label": "about"}
-{"sentence1": "What do your predictive analytics solutions include?", "label": "ml"}
-{"sentence1": "What should I expect from your QA consulting services?", "label": "qa"}
-{"sentence1": "What does your PoC development include?", "label": "iot"}
-{"sentence1": "Can you tell me more about your IoT cloud solutions?", "label": "iot"}
-{"sentence1": "I need guidance with testing strategies, can you assist me?", "label": "qa"}
-{"sentence1": "Do you do manual testing?", "label": "qa"}
-{"sentence1": "Who stand behind creation of your company?", "label": "about"}
-{"sentence1": "Why should I choose your company?", "label": "about"}
-{"sentence1": "What kind of culture do you have in your offices?", "label": "about"}
-{"sentence1": "Do you have Flutter engineers?", "label": "mobile"}
-{"sentence1": "Do you build chatbots?", "label": "ml"}
-{"sentence1": "Are there a lot of projects in your portfolio?", "label": "about"}
-{"sentence1": "Are all your offices located in Armenia?", "label": "about"}
-{"sentence1": "How many applications have you created?", "label": "about"}
-{"sentence1": "What the kitchens reffer to?", "label": "about"}
-{"sentence1": "Why should I give money to hire software testers?", "label": "qa"}
-{"sentence1": "How do I know if I can trust your QA processes?", "label": "qa"}
-{"sentence1": "What’s the testing process like?", "label": "qa"}
-{"sentence1": "Do you have many offices?", "label": "about"}
-{"sentence1": "Can I make sure there will be no bugs in my software?", "label": "qa"}
-{"sentence1": "Can I detect security issues or any strange activity through AI/ML?", "label": "ml"}
-{"sentence1": "How many projects have you completed?", "label": "about"}
-{"sentence1": "What languages do you use to build Android apps?", "label": "mobile"}
-{"sentence1": "What hybrid technologies are you familiar with?", "label": "mobile"}
-{"sentence1": "Are your services AI/ML powered?", "label": "ml"}
-{"sentence1": "Is there a specific industry you focus on?", "label": "about"}
-{"sentence1": "How can I make sure you are a trustworthy company?", "label": "about"}
-{"sentence1": "Do you have Xamarin engineers?", "label": "mobile"}
-{"sentence1": "What do you do through natural language processing?", "label": "ml"}
-{"sentence1": "Do you do cross-platform app development?", "label": "mobile"}
-{"sentence1": "Who are the founders of your company?", "label": "about"}
-{"sentence1": "What’s one good feature of Flutter for cross-platform app development?", "label": "mobile"}
-{"sentence1": "Why is Flutter the right choice for cross-platform app development?", "label": "mobile"}
-{"sentence1": "Will your QAs help me with testing of my products?", "label": "qa"}
-{"sentence1": "What can your chatbots do?", "label": "ml"}
-{"sentence1": "Can your QA team do manual testing?", "label": "qa"}
-{"sentence1": "Do you provide quality assurance?", "label": "qa"}
-{"sentence1": "Do you have a large client base?", "label": "about"}
-{"sentence1": "Will you help me to identify good software testing strategy?", "label": "qa"}
-{"sentence1": "How can I check how many QAs do I need?", "label": "qa"}
-{"sentence1": "What do your QA Automation services cover?", "label": "qa"}
-{"sentence1": "Does your company provide tech consulting?", "label": "about"}
-{"sentence1": "What techniques do you prefer for testing?", "label": "qa"}
-{"sentence1": "Can your quality assurance team guarantee the quality of my product?", "label": "qa"}
-{"sentence1": "Does your company have a team of software testers?", "label": "qa"}
-{"sentence1": "Is company culture important for you?", "label": "about"}
-{"sentence1": "What languages do you use to develop iOS apps?", "label": "mobile"}
-{"sentence1": " Have you worked on many projects?", "label": "about"}
-{"sentence1": "What services do you offer?", "label": "about"}
-{"sentence1": "Do you invest in maintaining health atmosphere in your company?", "label": "about"}
-{"sentence1": "What kind of IoT solutions have you developed?", "label": "iot"}
-{"sentence1": "What can your QA team do for me?", "label": "qa"}
-{"sentence1": "Do you have experience in computer vision?", "label": "ml"}
-{"sentence1": "Do you have Objective-C developers?", "label": "mobile"}
-{"sentence1": "What's the use of paying for testing?", "label": "qa"}
-{"sentence1": "Can I make sure I will not regret for paying for QA?", "label": "qa"}
-{"sentence1": "Can you help me identify the right QA strategy?", "label": "qa"}
-{"sentence1": "How can your testers make my product better?", "label": "qa"}
-{"sentence1": "Are there any specific industries your prefer to work with?", "label": "about"}
-{"sentence1": "What fields are you specialized in?", "label": "about"}
-{"sentence1": "Is it possible to develop a trading platform with your help?", "label": "about"}
-{"sentence1": "Do you have experience in commodities?", "label": "about"}
-{"sentence1": "Is Flutter your only option for cross-platform app development?", "label": "mobile"}
-{"sentence1": "Do you have clients from Europe?", "label": "about"}
-{"sentence1": "What countries are your clients usually from?", "label": "about"}
-{"sentence1": "Do you provide personalized QA strategies?", "label": "qa"}
-{"sentence1": "Have you ever created a platform for traders?", "label": "about"}
-{"sentence1": "Who founded Volo?", "label": "about"}
-{"sentence1": "How can your machine learning team help my business?", "label": "ml"}
-{"sentence1": "Do you have software testers?", "label": "qa"}
-{"sentence1": "Do you build mobile apps?", "label": "mobile"}
-{"sentence1": "What does your company do?", "label": "about"}
-{"sentence1": "Do you have manual QA team?", "label": "qa"}
-{"sentence1": "Can you develop a social network?", "label": "about"}
-{"sentence1": "Does you company have many branches?", "label": "about"}
-{"sentence1": "Can you create a hybrid mobile application?", "label": "mobile"}
-{"sentence1": "Do you provide QA specialists?", "label": "qa"}
-{"sentence1": "Where are the main branch of your company based?", "label": "about"}
-{"sentence1": "Do you do IoT for enterprises?", "label": "iot"}
-{"sentence1": "Is it worth to pay for QA team?", "label": "qa"}
-{"sentence1": "What IT services do you provide?", "label": "about"}
-{"sentence1": "Do you have iOS engineers?", "label": "mobile"}
-{"sentence1": "Will your testers make sure the quality of my app is good?", "label": "qa"}
-{"sentence1": "Does your company have branches in several countries?", "label": "about"}
-{"sentence1": "Why should I pay for quality assurance?", "label": "qa"}
-{"sentence1": "Do you have experience in healthcare related projects?", "label": "about"}
-{"sentence1": "Do you have an office in United States?", "label": "about"}
-{"sentence1": "What do your NLP services include?", "label": "ml"}
-{"sentence1": "What’s your company culture like?", "label": "about"}
-{"sentence1": "Which cloud services do you prefer for IoT?", "label": "iot"}
-{"sentence1": "Can you create somthing like Facebook?", "label": "about"}
 {"sentence1": "What will your QAs do?", "label": "qa"}
-{"sentence1": "Do you have experience in machine learning?", "label": "ml"}
-{"sentence1": "Do you do IoT for mobile apps?", "label": "iot"}
-{"sentence1": "Are you an IT company?", "label": "about"}
+{"sentence1": "Why should I pay for quality assurance?", "label": "qa"}
+{"sentence1": "How can QA consulting help me?", "label": "qa"}
+{"sentence1": "Can you provide quality assurance specialists?", "label": "qa"}
+{"sentence1": "Can you assist me with choosing best testing strategy?", "label": "qa"}
+{"sentence1": "Does the price paid for testing worth it?", "label": "qa"}
+{"sentence1": "Do you have manual QA team?", "label": "qa"}
+{"sentence1": "Will you adjust your QA flows for my needs?", "label": "qa"}
 {"sentence1": "What technologies do you use for cross-platform app development?", "label": "mobile"}
+{"sentence1": "Can you provide guidence for QA strategies?", "label": "qa"}
+{"sentence1": "Do you collaborate with companies from US?", "label": "about"}
+{"sentence1": "Do you do IoT for mobile apps?", "label": "iot"}
+{"sentence1": "Do you do manual testing?", "label": "qa"}
+{"sentence1": "Is there a way to automate regression testing?", "label": "qa"}
 {"sentence1": "Do you have specialists in anomaly detection field?", "label": "ml"}
-{"sentence1": "Do you provide QA Automation services?", "label": "qa"}
-{"sentence1": "Why should I pay for QA?", "label": "qa"}
-{"sentence1": "Will you help me with testing of my app?", "label": "qa"}
-{"sentence1": "How many people work in each of your office?", "label": "about"}
-{"sentence1": "How will my collaboration be with your team?", "label": "about"}
-{"sentence1": "Do you give guaranties related quality of your services?", "label": "qa"}
-{"sentence1": "What will the communication be like between us as partners? ", "label": "about"}
-{"sentence1": "What business spheres are your clients from?", "label": "about"}
-{"sentence1": "What technologies do you use for iOS?", "label": "mobile"}
+{"sentence1": "Do you build chatbots?", "label": "ml"}
+{"sentence1": "Can you create a hybrid mobile application?", "label": "mobile"}
 {"sentence1": "How can I know if I need QA?", "label": "qa"}
-{"sentence1": "Do you have experience in Azure IoT?", "label": "iot"}
+{"sentence1": "What fields are you specialized in?", "label": "about"}
+{"sentence1": "Why is Flutter the right choice for cross-platform app development?", "label": "mobile"}
+{"sentence1": "Can you create an Android app?", "label": "mobile"}
+{"sentence1": "Do you have experience in creating software for governmental needs?", "label": "about"}
+{"sentence1": "Do you have iOS engineers?", "label": "mobile"}
+{"sentence1": "What business spheres are your clients from?", "label": "about"}
+{"sentence1": "What QA strategies do you use for software testing?", "label": "qa"}
+{"sentence1": "Can you help me identify the right QA strategy?", "label": "qa"}
+{"sentence1": "Can I make sure I will not regret for paying for QA?", "label": "qa"}
+{"sentence1": "Are all your offices located in Armenia?", "label": "about"}
+{"sentence1": "What do you mean by kitchens?", "label": "about"}
+{"sentence1": "Do you build apps for both iOS and Android?", "label": "mobile"}
+{"sentence1": "Have you done many projects?", "label": "about"}
+{"sentence1": "Are there any specific industries your prefer to work with?", "label": "about"}
+{"sentence1": "What does your company do?", "label": "about"}
+{"sentence1": "Do you have a good QA team?", "label": "qa"}
+{"sentence1": "Is your company flexible related to QA flows?", "label": "qa"}
+{"sentence1": "Do you build mobile apps?", "label": "mobile"}
+{"sentence1": "Do you have Android engineers?", "label": "mobile"}
+{"sentence1": "What kind of chatbots can you create?", "label": "ml"}
+{"sentence1": "Will you make your testing flows suitable to my project?", "label": "qa"}
+{"sentence1": "Why should I choose your company?", "label": "about"}
+{"sentence1": "Do you do IoT for enterprises?", "label": "iot"}
+{"sentence1": "How do AI/ML help in finding out data issues?", "label": "ml"}
+{"sentence1": "What IoT services do you provide?", "label": "iot"}
+{"sentence1": "Have you ever created a platform for traders?", "label": "about"}
+{"sentence1": "Do you have experience in machine learning?", "label": "ml"}
+{"sentence1": "What kind of culture do you have in your offices?", "label": "about"}
+{"sentence1": "What do your QA Automation services cover?", "label": "qa"}
+{"sentence1": "Do you have experience in commodities?", "label": "about"}
+{"sentence1": "Can you create somthing like Facebook?", "label": "about"}
+{"sentence1": "What should I expect from your QA consulting services?", "label": "qa"}
+{"sentence1": "Have you created software for smart devices?", "label": "iot"}
+{"sentence1": "Have you developed applications for smart watches?", "label": "iot"}
+{"sentence1": "What's the use of paying for testing?", "label": "qa"}
+{"sentence1": "Do you do software testing?", "label": "qa"}
+{"sentence1": "Are your services AI/ML powered?", "label": "ml"}
+{"sentence1": "Do you have experience in healthcare related projects?", "label": "about"}
+{"sentence1": "Do you invest in maintaining health atmosphere in your company?", "label": "about"}
+{"sentence1": "Who stand behind creation of your company?", "label": "about"}
+{"sentence1": "Do you have automation QAs?", "label": "qa"}
+{"sentence1": "Do you provide good quality control?", "label": "qa"}
+{"sentence1": "Will you give me advice on best QA strategy?", "label": "qa"}
+{"sentence1": "How many applications have you created?", "label": "about"}
+{"sentence1": "Can you create something like PayPal?", "label": "about"}
+{"sentence1": "Have you developed solution for commodities market?", "label": "about"}
+{"sentence1": "Can you tell me more about your IoT cloud solutions?", "label": "iot"}
+{"sentence1": "Can you develop a social network?", "label": "about"}
+{"sentence1": "What techniques do you prefer for testing?", "label": "qa"}
+{"sentence1": "Are you an IT company?", "label": "about"}
+{"sentence1": "Are there a lot of projects in your portfolio?", "label": "about"}
+{"sentence1": "What technologies do you use for android?", "label": "mobile"}
+{"sentence1": "What kind of IoT solutions have you developed?", "label": "iot"}
+{"sentence1": "What do you do through natural language processing?", "label": "ml"}
+{"sentence1": " Have you worked on many projects?", "label": "about"}
+{"sentence1": "How will our teams collaborate?", "label": "about"}
+{"sentence1": "Do you have an office in United States?", "label": "about"}
+{"sentence1": "Can you create an iOS app?", "label": "mobile"}
+{"sentence1": "How old is your company?", "label": "about"}
+{"sentence1": "Which cloud services do you prefer for IoT?", "label": "iot"}
+{"sentence1": "How many people work in each of your office?", "label": "about"}
+{"sentence1": "What hybrid technologies are you familiar with?", "label": "mobile"}
+{"sentence1": "Is your QA team use best practices?", "label": "qa"}
+{"sentence1": "Do you provide QA specialists?", "label": "qa"}
+{"sentence1": "What does your PoC development include?", "label": "iot"}
+{"sentence1": "Do you give guaranties related quality of your services?", "label": "qa"}
+{"sentence1": "What languages do you use to develop iOS apps?", "label": "mobile"}
 {"sentence1": "Do you have experience in artificial intelligence?", "label": "ml"}
+{"sentence1": "Can you do automation testing of a website?", "label": "qa"}
+{"sentence1": "What technologies do you use for iOS?", "label": "mobile"}
+{"sentence1": "Do you have Flutter engineers?", "label": "mobile"}
+{"sentence1": "Do you offer tech consulting services?", "label": "about"}
+{"sentence1": "What countries are your clients usually from?", "label": "about"}
+{"sentence1": "Does your company have a team of software testers?", "label": "qa"}
+{"sentence1": "What’s your company culture like?", "label": "about"}
+{"sentence1": "Is there a team of manual QAs in Volo?", "label": "qa"}
+{"sentence1": "Do you provide IoT services?", "label": "iot"}
+{"sentence1": "Who are the founders of your company?", "label": "about"}
+{"sentence1": "What is predictive analytics?", "label": "ml"}
+{"sentence1": "Do you have team of manual testers?", "label": "qa"}
+{"sentence1": "What are your QA consulting services about?", "label": "qa"}
+{"sentence1": "Hat your QA team will bring to the table?", "label": "qa"}
+{"sentence1": "Does you company have many branches?", "label": "about"}
+{"sentence1": "Can you automate the regression testing of my website?", "label": "qa"}
+{"sentence1": "Do you have Objective-C developers?", "label": "mobile"}
+{"sentence1": "How do I know if I can trust your QA processes?", "label": "qa"}
+{"sentence1": "What will the communication be like between us as partners? ", "label": "about"}
+{"sentence1": "Is there a specific industry you focus on?", "label": "about"}
+{"sentence1": "How many offices do you have?", "label": "about"}
+{"sentence1": "How can I check how many QAs do I need?", "label": "qa"}
+{"sentence1": "How your QAs do the testing?", "label": "qa"}
+{"sentence1": "Can I make sure your QA processes are trastworthy?", "label": "qa"}
 {"sentence1": "I need to integrate a payment system, can you help with that?", "label": "about"}
+{"sentence1": "What’s NLP?", "label": "ml"}
+{"sentence1": "Do you do automation QA of mobile apps?", "label": "qa"}
+{"sentence1": "How can QAs help me?", "label": "qa"}
+{"sentence1": "What is Flutter?", "label": "mobile"}
+{"sentence1": "Do you have Java developers?", "label": "mobile"}
+{"sentence1": "Will you help me with testing of my app?", "label": "qa"}
+{"sentence1": "Does your company have branches in several countries?", "label": "about"}
+{"sentence1": "Do you have experience in computer vision?", "label": "ml"}
+{"sentence1": "How will my collaboration be with your team?", "label": "about"}
+{"sentence1": "Is it worth to pay for QA team?", "label": "qa"}
+{"sentence1": "Do you have clients from Europe?", "label": "about"}
+{"sentence1": "Where are your clients usually from?", "label": "about"}
+{"sentence1": "Can your QA team do manual testing?", "label": "qa"}
+{"sentence1": "What services do you offer?", "label": "about"}
+{"sentence1": "Can I hire a QA team from your company?", "label": "qa"}
+{"sentence1": "How can your testers make my product better?", "label": "qa"}
+{"sentence1": "How many projects have you completed?", "label": "about"}
+{"sentence1": "How many branches does Volo have?", "label": "about"}
+{"sentence1": "What IT services do you provide?", "label": "about"}
+{"sentence1": "Can I make sure there will be no bugs in my software?", "label": "qa"}
+{"sentence1": "Do you do QA?", "label": "qa"}
+{"sentence1": "Is Flutter your only option for cross-platform app development?", "label": "mobile"}
+{"sentence1": "Will you help me to identify good software testing strategy?", "label": "qa"}
+{"sentence1": "Do you have software testers?", "label": "qa"}
+{"sentence1": "How can I make sure you are a trustworthy company?", "label": "about"}
+{"sentence1": "What languages do you use to build Android apps?", "label": "mobile"}
+{"sentence1": "Will your QA team check that there are no crashes?", "label": "qa"}
+{"sentence1": "Do you do cross-platform app development?", "label": "mobile"}
+{"sentence1": "Do you have experience in Azure IoT?", "label": "iot"}
+{"sentence1": "What kind of automation do you provide?", "label": "qa"}
+{"sentence1": "Is it possible to develop a trading platform with your help?", "label": "about"}
+{"sentence1": "Do you provide QA Automation services?", "label": "qa"}
+{"sentence1": "Can I trust VOLO?", "label": "about"}
+{"sentence1": "What the kitchens reffer to?", "label": "about"}
+{"sentence1": "What do your NLP services include?", "label": "ml"}
+{"sentence1": "Why should I give money to hire software testers?", "label": "qa"}
+{"sentence1": "Have you done any projects for government?", "label": "about"}
+{"sentence1": "What’s one good feature of Flutter for cross-platform app development?", "label": "mobile"}
+{"sentence1": "Does your QA team do automation?", "label": "qa"}
